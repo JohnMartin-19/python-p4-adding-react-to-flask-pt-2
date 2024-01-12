@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <h1>Movie List</h1>
-      <p>Chech console for the movie list!</p>
+      <p>Check console for the movie list!</p>
     </div>
   )
   
